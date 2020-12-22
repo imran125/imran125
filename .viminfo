@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1608630474,,"wq"
+|2,0,1608630602,,"wq"
 :q!
 |2,0,1608630402,,"q!"
 :w
@@ -48,34 +48,44 @@
 |3,0,36,0,1,0,1606980397,"}"
 
 # File marks:
-'0  2  39  ~/index.html
-|4,48,2,39,1608630474,"~/index.html"
-'1  1  26  ~/index.html
-|4,49,1,26,1608630402,"~/index.html"
+'0  1  13  ~/index2.html
+|4,48,1,13,1608630602,"~/index2.html"
+'1  2  39  ~/index.html
+|4,49,2,39,1608630474,"~/index.html"
 '2  1  26  ~/index.html
 |4,50,1,26,1608630402,"~/index.html"
 '3  1  26  ~/index.html
-|4,51,1,26,1608625266,"~/index.html"
+|4,51,1,26,1608630402,"~/index.html"
 '4  1  26  ~/index.html
 |4,52,1,26,1608625266,"~/index.html"
-'5  1  0  ~/Demo1/Demo4.java
-|4,53,1,0,1608116195,"~/Demo1/Demo4.java"
-'6  10  2  ~/Demo1/Demo3.java
-|4,54,10,2,1608095213,"~/Demo1/Demo3.java"
-'7  1  17  ~/Demo1/Demo4.java
-|4,55,1,17,1608095148,"~/Demo1/Demo4.java"
-'8  6  48  ~/Demo1/Demo4.java
-|4,56,6,48,1608085423,"~/Demo1/Demo4.java"
-'9  5  111  ~/Demo1/Demo4.java
-|4,57,5,111,1608085423,"~/Demo1/Demo4.java"
+'5  1  26  ~/index.html
+|4,53,1,26,1608625266,"~/index.html"
+'6  1  0  ~/Demo1/Demo4.java
+|4,54,1,0,1608116195,"~/Demo1/Demo4.java"
+'7  10  2  ~/Demo1/Demo3.java
+|4,55,10,2,1608095213,"~/Demo1/Demo3.java"
+'8  1  17  ~/Demo1/Demo4.java
+|4,56,1,17,1608095148,"~/Demo1/Demo4.java"
+'9  6  48  ~/Demo1/Demo4.java
+|4,57,6,48,1608085423,"~/Demo1/Demo4.java"
 
 # Jumplist (newest first):
+-'  1  13  ~/index2.html
+|4,39,1,13,1608630602,"~/index2.html"
+-'  2  39  ~/index.html
+|4,39,2,39,1608630474,"~/index.html"
 -'  2  39  ~/index.html
 |4,39,2,39,1608630474,"~/index.html"
 -'  1  26  ~/index.html
 |4,39,1,26,1608630437,"~/index.html"
 -'  1  26  ~/index.html
+|4,39,1,26,1608630437,"~/index.html"
+-'  1  26  ~/index.html
 |4,39,1,26,1608630402,"~/index.html"
+-'  1  26  ~/index.html
+|4,39,1,26,1608630402,"~/index.html"
+-'  1  26  ~/index.html
+|4,39,1,26,1608625266,"~/index.html"
 -'  1  26  ~/index.html
 |4,39,1,26,1608625266,"~/index.html"
 -'  1  0  ~/Demo1/Demo4.java
@@ -94,6 +104,22 @@
 |4,39,1,0,1608116195,"~/Demo1/Demo4.java"
 -'  1  0  ~/Demo1/Demo4.java
 |4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
+-'  1  0  ~/Demo1/Demo4.java
+|4,39,1,0,1608116195,"~/Demo1/Demo4.java"
 -'  10  2  ~/Demo1/Demo3.java
 |4,39,10,2,1608095213,"~/Demo1/Demo3.java"
 -'  10  2  ~/Demo1/Demo3.java
@@ -110,6 +136,38 @@
 |4,39,10,2,1608095213,"~/Demo1/Demo3.java"
 -'  10  2  ~/Demo1/Demo3.java
 |4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  10  2  ~/Demo1/Demo3.java
+|4,39,10,2,1608095213,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
+-'  1  0  ~/Demo1/Demo3.java
+|4,39,1,0,1608095167,"~/Demo1/Demo3.java"
 -'  1  0  ~/Demo1/Demo3.java
 |4,39,1,0,1608095167,"~/Demo1/Demo3.java"
 -'  1  0  ~/Demo1/Demo3.java
@@ -158,6 +216,38 @@
 |4,39,1,17,1608095148,"~/Demo1/Demo4.java"
 -'  1  17  ~/Demo1/Demo4.java
 |4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
+-'  1  17  ~/Demo1/Demo4.java
+|4,39,1,17,1608095148,"~/Demo1/Demo4.java"
 -'  5  111  ~/Demo1/Demo4.java
 |4,39,5,111,1608095057,"~/Demo1/Demo4.java"
 -'  5  111  ~/Demo1/Demo4.java
@@ -180,98 +270,15 @@
 |4,39,5,111,1608095057,"~/Demo1/Demo4.java"
 -'  5  111  ~/Demo1/Demo4.java
 |4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  5  111  ~/Demo1/Demo4.java
-|4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  5  111  ~/Demo1/Demo4.java
-|4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  5  111  ~/Demo1/Demo4.java
-|4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  5  111  ~/Demo1/Demo4.java
-|4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  5  111  ~/Demo1/Demo4.java
-|4,39,5,111,1608095057,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  6  48  ~/Demo1/Demo4.java
-|4,39,6,48,1608085423,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
--'  1  0  ~/Demo1/Demo4.java
-|4,39,1,0,1608085363,"~/Demo1/Demo4.java"
 
 # History of marks within files (newest to oldest):
+
+> ~/index2.html
+	*	1608630598	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
 
 > ~/index.html
 	*	1608630470	0
