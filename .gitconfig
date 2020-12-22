@@ -1,0 +1,5 @@
+[user]
+	name = imrankhawaja
+	email = imran.aleem.khawaja@gmail.com
+[merge]
+	tool = vimdiff
